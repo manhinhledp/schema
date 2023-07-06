@@ -1,0 +1,101 @@
+<script type="application/ld+json">{
+	"@context": "http://schema.org",
+  	"@type": "Professionalservice",
+"@id":"https://ledp.vn/",
+	"url": "https://ledp.vn/",
+	"logo": "https://ledp.vn/wp-content/uploads/2017/01/log0.jpg",
+    "image":"https://ledp.vn/wp-content/uploads/2017/01/logo.jpg",
+    "priceRange":"1000$-30000$",
+	"hasMap": "https://www.google.com/maps/place/dx-events/@10.830954,106.679629,15z/data=!4m5!3m4!1s0x0:0x69f7702f0b2059b0!8m2!3d10.830954!4d106.679629?dg=dbrw&newdg=1",	
+	"email": "mailto:info@ledp.vn			",
+    "founder": "Tran Le Xuan",
+  	"address": {
+    	"@type": "PostalAddress",
+    	"addressLocality": "Thu Duc",
+        "addressCountry": "Vietnam",
+    	"addressRegion": "Hochiminh",
+    	"postalCode":"700000",
+    	"streetAddress": "161 Chu Văn An, P. 26, Bình Thạnh, Hồ Chí Minh"
+  	},
+  	"description": "Cong ty DX Events - Man hinh LED P",
+	"name": "DX Events",
+  	"telephone": "0914.025.906",
+  	"openingHoursSpecification": [
+  {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "opens": "08:30",
+    "closes": "18:00"
+  },
+  {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+      "Saturday"
+    ],
+    "opens": "8:30",
+    "closes": "11:30"
+  }
+],
+  	"geo": {
+    	"@type": "GeoCoordinates",
+   	"latitude": "10.830954",
+    	"longitude": "106.679629"
+ 		}, 			
+         "potentialAction": {
+    "@type": "ReserveAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://ledp.vn/dang-ki/",
+      "inLanguage": "vn",
+      "actionPlatform": [
+        "http://schema.org/DesktopWebPlatform",
+        "http://schema.org/IOSPlatform",
+        "http://schema.org/AndroidPlatform"
+      ]
+    },
+    "result": {
+      "@type": "Reservation",
+      "name": "đăng kí"
+    }
+  },
+ 
+  	"sameAs" : [ "https://www.facebook.com/manhinhledp",
+    	"https://www.youtube.com/c/manhinhledp",
+    	"https://twitter.com/manhinhledp",
+		"https://www.instagram.com/manhinhledp",
+		"https://www.youtube.com/c/vincentdoseo",
+		"https://www.linkedin.com/company/gtv-seo",
+		"https://www.pinterest.com/manhinhledp",
+		"https://soundcloud.com/manhinhledp",
+		"https://plus.google.com/+manhinhledp1",
+		"https://plus.google.com/+manhinhledp",
+        "http://manhinhledp.tumblr.com/"]
+	}</script>
+	<script type="application/ld+json">{
+  "@context": "http://schema.org",
+  "@type": "Person",
+  "name": "Tran Le Xuan",
+  "jobTitle": "Business Manager",
+  "image" : "https://ledp.vn/wp-content/uploads/2017/10/tranlexuan.png",
+   "worksFor" : "DX Events",
+  "url": "https://ledp.vn",
+"sameAs":["https://vn.linkedin.com/in/tranlexuan",
+"https://www.facebook.com/tranlexuan",
+"https://vi.gravatar.com/tranlexuan",
+"https://plus.google.com/+tranlexuan",
+"https://www.instagram.com/tranlexuan",
+"https://www.youtube.com/c/tranlexuan",
+"https://www.quora.com/profile/tranlexuan-10" ], 
+"AlumniOf" : [ "Hoa sen",
+"RMIT university" ],
+"address": {
+  "@type": "PostalAddress",
+    "addressLocality": "Ho Chi Minh",
+    "addressRegion": "vietnam"
+	 }}</script>
